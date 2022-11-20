@@ -144,13 +144,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 FANGZ - BOT ⁩இ 」' //Wm
+global.wm = '                「 赤 DYZEN - BOT ⁩இ 」' //Wm
 global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm3 = '赤 DYZEN - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: FangzXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: -' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -469,10 +469,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
+global.nameowner = dyzenXD'
 global.umurowner = '15'
 global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6288215689772'
+global.nomorowner = 'wa.me/6285877346651'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -505,7 +505,7 @@ global.fpagedoc = '1'.repeat(10)
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'YT: FangzXD'
 global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.packname = 'By DYZEN'
 
 
 global.multiplier = 38 // The higher, The harder levelup
